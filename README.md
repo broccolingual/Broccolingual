@@ -1,6 +1,6 @@
 ## My Profile 👋
 
-![Broccolingual's github stats](https://github-readme-stats.vercel.app/api?username=broccolingual&count_private=true&show_icons=true&theme=radical)
+![Broccolingual's github stats](https://github-readme-stats.vercel.app/api?username=broccolingual&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broccolingual&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Bot
