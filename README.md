@@ -7,19 +7,3 @@
 <a href="https://github.com/broccolingual/firebase">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=broccolingual&repo=firebase" />
 </a>
-
-## My Bot
-
-#### Aurelia(private)
-<a href="https://github.com/broccolingual/aurelia-discord-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=broccolingual&repo=aurelia-discord-bot" />
-</a>
-
-***
-
-#### Numeron Bot
-<a href="https://github.com/broccolingual/numeron-bot-public">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=broccolingual&repo=numeron-bot-public" />
-</a>
-
-***
