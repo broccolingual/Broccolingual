@@ -5,11 +5,11 @@
 #### GitHub Stats
 
 <a href="https://github.com/broccolingual/Broccolingual">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=broccolingual&show_icons=true&theme=radical alt="Broccolingual's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=broccolingual&show_icons=true&theme=default alt="Broccolingual's GitHub Stats"/>
 </a>
 
 <a href="https://github.com/broccolingual/Broccolingual">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=broccolingual&hide=powershell, XSLT&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=broccolingual&hide=powershell, XSLT&theme=default" />
 </a>
 
 ### Language & Tools
