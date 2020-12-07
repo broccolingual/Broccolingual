@@ -1,4 +1,4 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=broccolingual&color=orange)
+![Visitor Count](https://komarev.com/ghpvc/?username=broccolingual&style=flat-square&color=orange)
 
 ### Hi 👋
 
