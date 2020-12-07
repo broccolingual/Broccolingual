@@ -21,8 +21,8 @@
 
 ### My 2020 works
 
-#### Web App
-
+#### 📌 Web App
+---
 ##### GitHub Search Web App(Javascript)
 https://pedantic-bhaskara-b0145e.netlify.app
 
@@ -32,7 +32,8 @@ https://gifted-liskov-ffdfb4.netlify.app
 ##### React Chat App(React.js)
 https://react-chatapp-f830c.firebaseapp.com/
 
-#### Discord Bot
+#### 📌 Discord Bot
+---
 <a href="https://github.com/broccolingual/quiz-project-discordbot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=broccolingual&repo=quiz-project-discordbot" />
 </a>
@@ -45,8 +46,8 @@ https://react-chatapp-f830c.firebaseapp.com/
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=broccolingual&repo=numeron-bot-public" />
 </a>
 
-#### Script, Tools & GUI App
-
+#### 📌 Script, Tools & GUI App
+---
 ##### Firebase Tool(python)
 <a href="https://github.com/broccolingual/firebase">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=broccolingual&repo=firebase" />
@@ -57,7 +58,7 @@ https://react-chatapp-f830c.firebaseapp.com/
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=broccolingual&repo=Qiita-Search-Lib" />
 </a>
 
-##### Calculator GUI App(tkinter(python))
+##### GUI Calculator App(tkinter(python))
 <a href="https://github.com/broccolingual/tkinter-calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=broccolingual&repo=tkinter-calculator" />
 </a>
