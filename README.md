@@ -45,10 +45,6 @@ https://react-chatapp-f830c.firebaseapp.com/
 
 #### 📌 Discord Bot
 ---
-<a href="https://github.com/broccolingual/quiz-project-discordbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=broccolingual&repo=quiz-project-discordbot" />
-</a>
-<br>
 <a href="https://github.com/broccolingual/discord-voice-controller">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=broccolingual&repo=discord-voice-controller" />
 </a>
@@ -67,9 +63,4 @@ https://react-chatapp-f830c.firebaseapp.com/
 ##### Qiita Scraping Tool(python)
 <a href="https://github.com/broccolingual/Qiita-Search-Lib">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=broccolingual&repo=Qiita-Search-Lib" />
-</a>
-
-##### GUI Calculator App(tkinter(python))
-<a href="https://github.com/broccolingual/tkinter-calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=broccolingual&repo=tkinter-calculator" />
 </a>
