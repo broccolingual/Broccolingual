@@ -27,40 +27,10 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
-### Aurelia - Discord Bot
+## My Works
+
+### 📌python_line_notify (Python Library)
+https://github.com/broccolingual/python-line-notify
+
+### 📌Aurelia - Discord Bot
 https://aurelia-discord-bot.web.app/
-
-### My 2020 works
-
-#### 📌 Web App
----
-##### GitHub Search Web App(Javascript)
-https://pedantic-bhaskara-b0145e.netlify.app
-
-##### Calculator Web App(Javascript)
-https://gifted-liskov-ffdfb4.netlify.app
-
-##### React Chat App(React.js)
-https://react-chatapp-f830c.firebaseapp.com/
-
-#### 📌 Discord Bot
----
-<a href="https://github.com/broccolingual/discord-voice-controller">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=broccolingual&repo=discord-voice-controller" />
-</a>
-<br>
-<a href="https://github.com/broccolingual/numeron-bot-public">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=broccolingual&repo=numeron-bot-public" />
-</a>
-
-#### 📌 Script, Tools & GUI App
----
-##### Firebase Tool(python)
-<a href="https://github.com/broccolingual/firebase">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=broccolingual&repo=firebase" />
-</a>
-
-##### Qiita Scraping Tool(python)
-<a href="https://github.com/broccolingual/Qiita-Search-Lib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=broccolingual&repo=Qiita-Search-Lib" />
-</a>
