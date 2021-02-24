@@ -32,5 +32,8 @@
 ### 📌python_line_notify (Python Library)
 https://github.com/broccolingual/python-line-notify
 
+### 📌Covid-19 Data Analysis
+https://github.com/broccolingual/Covid-19-Data-Analysis
+
 ### 📌Aurelia - Discord Bot
 https://aurelia-discord-bot.web.app/
