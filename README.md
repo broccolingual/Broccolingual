@@ -4,9 +4,7 @@
 
 #### GitHub Stats
 
-<a href="https://github.com/broccolingual/Broccolingual">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=broccolingual&show_icons=true&theme=default alt="Broccolingual's GitHub Stats"/>
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=broccolingual&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/broccolingual/Broccolingual">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=broccolingual&hide=powershell, XSLT&theme=default" />
