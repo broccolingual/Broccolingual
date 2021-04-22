@@ -14,7 +14,10 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat-square&logoColor=white">
   <img alt="Go" src="https://img.shields.io/badge/-Go-007d9c.svg?logo=go&style=flat-square&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=c&style=flat-square&logoColor=black">
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black">
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat-square&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat-square&logoColor=white">
