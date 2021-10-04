@@ -14,6 +14,7 @@
 
 ### Language/Library
 
+<p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat-square&logoColor=white">
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
 <img alt="Go" src="https://img.shields.io/badge/-Go-007d9c.svg?logo=go&style=flat-square&logoColor=white">
@@ -27,22 +28,27 @@
 <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
 
 ### Database
 
+<p>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
-
+</p>
+  
 ### Service/Tool
 
+<p>
 <img alt="Amazon Cloud9" src="https://img.shields.io/badge/Amazon_Cloud9-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-
+</p>
+  
 ## My Works
 
 ### 📌python_line_notify (Python Library)
