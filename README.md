@@ -6,8 +6,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=broccolingual&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/broccolingual/Broccolingual">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=broccolingual&hide=powershell, XSLT&theme=default" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </a>
 
 ### Language & Tools
