@@ -2,17 +2,9 @@
 
 ### Hi 👋
 
-#### GitHub Stats
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=broccolingual&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broccolingual&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</a>
-
 ## Skills
 
-### Language/Library
+#### Language/Library
 
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat-square&logoColor=white">
@@ -30,7 +22,7 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-### Database
+#### Database
 
 <p>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
@@ -38,7 +30,7 @@
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
   
-### Service/Tool
+#### Service/Tool
 
 <p>
 <img alt="Amazon Cloud9" src="https://img.shields.io/badge/Amazon_Cloud9-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
@@ -48,6 +40,13 @@
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
+
+#### GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broccolingual&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=broccolingual&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+</a>
   
 ## My Works
 
