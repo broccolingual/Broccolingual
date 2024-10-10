@@ -19,6 +19,7 @@
 <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-0F172A?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
 #### Database
