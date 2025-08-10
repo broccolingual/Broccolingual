@@ -8,6 +8,7 @@
 
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat-square&logoColor=white">
+<img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white">
 <img alt="Go" src="https://img.shields.io/badge/-Go-007d9c.svg?logo=go&style=flat-square&logoColor=white">
 <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
 <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" />
