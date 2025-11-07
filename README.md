@@ -1,4 +1,5 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=broccolingual&style=flat-square&color=orange)
+[![wakatime](https://wakatime.com/badge/user/cb8d3a86-a060-4e2d-9140-4658cf8f6d46.svg)](https://wakatime.com/@cb8d3a86-a060-4e2d-9140-4658cf8f6d46)
 
 ### Hi 👋
 
